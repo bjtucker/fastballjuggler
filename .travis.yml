@@ -21,4 +21,4 @@ matrix:
             - powershell
 
 script:
-  - pwsh -c 'exit 1'
+  - pwsh -c 'exit 0'
