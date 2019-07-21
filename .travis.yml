@@ -21,4 +21,4 @@ matrix:
             - powershell
 
 script:
-  - pwsh -c 'Install-Module Pester -Force -Scope CurrentUser; Invoke-Pester'
+  - pwsh test/test.ps1
