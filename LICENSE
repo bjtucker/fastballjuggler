@@ -1,0 +1,9 @@
+The file .travis.yml is modified from one in the Pester project,
+Copyright 2011 Scott Muc and Manoj Mahalingam, and released under the Apache 2.0 license.
+https://github.com/pester/Pester/blob/master/LICENSE
+
+The rest of this is copyright 2019 Ben Tucker, and released under the same license, or WTFPL 2.0.
+    http://www.apache.org/licenses/LICENSE-2.0
+    http://www.wtfpl.net
+
+Obviously no warranty.
