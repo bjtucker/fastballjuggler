@@ -1,3 +1,5 @@
+language: generic
+
 os: linux
   dist: trusty
   # VM-based builds turned out to be faster
