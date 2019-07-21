@@ -4,6 +4,6 @@
  
 Describe “Get-HelloWorld" {
     It "does something useful" {
-        $true | Should Be $true
+        $false | Should Be $true
     }
 }
